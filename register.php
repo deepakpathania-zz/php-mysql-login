@@ -14,6 +14,12 @@
 			echo "Failed to register";
 		}
 	}
+
+// check wether the request is get or post
+if(isset($_POST['submit'])
+   {
+	   //putt your codec over here
+   }
 ?>
 
 <!DOCTYPE html>
