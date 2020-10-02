@@ -31,7 +31,7 @@ if($_POST['submit']) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP-SQL Login</title>
+	<title>PHP-SQL Login System</title>
 </head>
 <body>
 <h1>Login</h1>
